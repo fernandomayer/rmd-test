@@ -2,7 +2,7 @@
 title: "About This Website"
 output:
   html_document:
-    toc: false
+    toc_float: false
 ---
 
 More about this website.
